@@ -16,3 +16,11 @@ h1{
 h2{
     color:darkmagenta;
 }
+img.side{
+    float: right;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: darkgoldenrod;
+}
