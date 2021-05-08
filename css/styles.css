@@ -4,11 +4,11 @@ body{
 }
 main{
     background-color: white;
-    width: 500px;
-    padding: 20px;
+    width: 560px;
+    padding: 10px;
     margin: auto;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.529);
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.529);
 }
 h1{
     color: darkgoldenrod;
@@ -23,4 +23,8 @@ a{
     text-decoration: none;
     font-weight: bold;
     color: darkgoldenrod;
+}
+a:hover {
+    text-decoration: underline;
+    color: rgb(26, 26, 255);
 }
